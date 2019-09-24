@@ -1,6 +1,6 @@
 # Regex filters for Pi-hole
 
-This is a compilation of Regex filters made by me.
+This is a compilation of Regex filters made by me, the list will get longer as time goes on.
 ```
 ^([A-Za-z.-]*\.)?trafficjunky(.[a-z]*)
 ```
