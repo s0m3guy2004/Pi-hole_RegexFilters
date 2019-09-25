@@ -5,7 +5,7 @@ This is a compilation of Regex filters made by me, the list will get longer as t
 ^([A-Za-z.-]*\.)?trafficjunky(.[a-z]*)
 ^([A-Za-z.-]*\.)?moatads\.com/
 ```
-##Wildcards
+## Wildcards
 ```
 (^|\.)amazon-adsystem\.com$
 ```
