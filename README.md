@@ -8,4 +8,7 @@ This is a compilation of Regex filters made by me, the list will get longer as t
 ## Wildcards
 ```
 (^|\.)amazon-adsystem\.com$
+(^|\.)cpmstar\.com$
+(^|\.)fastfreeredics[0-9]\.life$
+(^|\.)treasuredata\.com$
 ```
