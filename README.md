@@ -1,6 +1,7 @@
-# Regex filters for Pi-hole
+# Blocklists and filters for Pi-hole
 
-This is a compilation of Regex filters made by me, the list will get longer as time goes on.
+This is a compilation of filters made by me, the list will get longer as time goes on.
+## Regex
 ```
 ^([A-Za-z.-]*\.)?trafficjunky(.[a-z]*)
 ^([A-Za-z.-]*\.)?moatads\.com/
