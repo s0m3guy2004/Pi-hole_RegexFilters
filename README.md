@@ -12,8 +12,13 @@ yoads(.[a-z]*)
 ## Wildcards
 ```
 (^|\.)amazon-adsystem\.com$
+(^|\.)adskeeper\.co\.uk$
+(^|\.)addthis\.com$
 (^|\.)bemobtrk\.com$
 (^|\.)cpmstar\.com$
+(^|\.)exdynsrv\.com$
 (^|\.)fastfreeredics[0-9]\.life$
+(^|\.)mgid\.com$
+(^|\.)steepto\.com$
 (^|\.)treasuredata\.com$
 ```
