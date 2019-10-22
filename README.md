@@ -7,6 +7,8 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 ```
 ^([A-Za-z.-]*\.)?trafficjunky(.[a-z]*)
 ^([A-Za-z.-]*\.)?moatads\.com/
+^(api[4-6]*\.)([A-Za-z0-9.-]*)
+platform?[0-9]*[-_.]
 yoads(.[a-z]*)
 ```
 ## Wildcards
