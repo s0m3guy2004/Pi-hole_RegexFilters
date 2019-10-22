@@ -32,6 +32,7 @@ ocsp.digicert.com
 peezette-initial.com
 pc-pm.zeusgame.me
 pc-sao.herogo.me
+pub-boltz.xyz
 paumoogo.net
 pushazam.com
 sonumal.com
