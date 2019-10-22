@@ -8,6 +8,8 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 ^([A-Za-z.-]*\.)?trafficjunky(.[a-z]*)
 ^([A-Za-z.-]*\.)?moatads\.com/
 ^(api[4-6]*\.)([A-Za-z0-9.-]*)
+^(galleryn[0-9]*\.)?awemwh\.com/
+^(pt-static[0-9]*\.)?jsmstat\.com/
 platform?[0-9]*[-_.]
 yoads(.[a-z]*)
 ```
@@ -21,6 +23,7 @@ yoads(.[a-z]*)
 (^|\.)cpmstar\.com$
 (^|\.)exdynsrv\.com$
 (^|\.)fastfreeredics[0-9]\.life$
+(^|\.)livejasmin\.com$
 (^|\.)mgid\.com$
 (^|\.)steepto\.com$
 (^|\.)treasuredata\.com$
