@@ -23,8 +23,10 @@ yoads(.[a-z]*)
 (^|\.)cpmstar\.com$
 (^|\.)exdynsrv\.com$
 (^|\.)fastfreeredics[0-9]\.life$
+(^|\.)fabetvn\.com$
 (^|\.)livejasmin\.com$
 (^|\.)mgid\.com$
+(^|\.)octabx\.club$
 (^|\.)steepto\.com$
 (^|\.)treasuredata\.com$
 ```
