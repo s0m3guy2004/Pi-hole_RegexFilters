@@ -14,6 +14,7 @@ yoads(.[a-z]*)
 (^|\.)amazon-adsystem\.com$
 (^|\.)adskeeper\.co\.uk$
 (^|\.)addthis\.com$
+(^|\.)bebi.com$
 (^|\.)bemobtrk\.com$
 (^|\.)cpmstar\.com$
 (^|\.)exdynsrv\.com$
