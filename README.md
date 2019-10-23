@@ -13,7 +13,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 ^galleryn[0-9?].awemwh\.com$
 ^pt-static[1-4?].jsmstat\.com$
 platform?[0-9]*[-_.]
-yoads(.[a-z]*)
+yoads[-_.]
 ```
 ## Wildcards
 ```
