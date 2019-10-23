@@ -33,5 +33,6 @@ yoads[-_.]
 (^|\.)octabx\.club$
 (^|\.)steepto\.com$
 (^|\.)treasuredata\.com$
+(^|\.)zdassets.com$
 (^|\.)yu8\.us$
 ```
