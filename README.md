@@ -10,7 +10,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 ^([A-Za-z.-]*\.)?trafficjunky[-.]
 ^([A-Za-z.-]*\.)?moatads\.com$
 ^api([4-6]*\.)([A-Za-z0-9.-]*)
-^galleryn[0-9?].awemwh\.com$
+^galleryn[0-9?].awe[a-z?]\.com$
 ^pt-static[1-4?].jsmstat\.com$
 platform?[0-9]*[-_.]
 yoads[-_.]
