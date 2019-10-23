@@ -5,6 +5,7 @@ This is a compilation of filters made by me, the list will get longer as time go
 You can import my blocklist by pasting this link: https://raw.githubusercontent.com/s0m3guy2004/pihole-filters/master/blocklist.txt
 ## Regex
 ```
+(^|\.)ali(yun|cdn)\.com$
 (^|\.)fastfreeredics[0-9]\.life$
 ^([A-Za-z.-]*\.)?trafficjunky[-.]
 ^([A-Za-z.-]*\.)?moatads\.com$
@@ -19,6 +20,7 @@ yoads(.[a-z]*)
 (^|\.)amazon-adsystem\.com$
 (^|\.)adskeeper\.co\.uk$
 (^|\.)addthis\.com$
+(^|\.)aaxads\.com$
 (^|\.)bebi.com$
 (^|\.)bemobtrk\.com$
 (^|\.)cpmstar\.com$
