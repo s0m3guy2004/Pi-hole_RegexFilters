@@ -13,7 +13,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 ^([A-Za-z.-]*\.)?trafficjunky[-.]
 ^([A-Za-z.-]*\.)?moatads\.com$
 ^((galleryn)|(pt-static))[0-9?].awe((mwh)|(stc))\.com$
-^pt-static[1-4?].jsmstat\.com$
+^pt-static[0-9?].jsmstat\.com$
 ^teencfnm.([A-Za-z0-9.-]*\.)?netdna-cdn\.com$
 platform?[0-9]*[-_.]
 yoads[-_.]
@@ -39,6 +39,7 @@ yoads[-_.]
 (^|\.)qiyukf\.com$
 (^|\.)steepto\.com$
 (^|\.)treasuredata\.com$
+(^|\.)interactive\.com$
 (^|\.)zdassets.com$
 (^|\.)zendesk.com$
 (^|\.)yu8\.us$
