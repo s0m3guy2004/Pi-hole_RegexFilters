@@ -6,7 +6,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 ## Regex
 ```
 (^|\.)ali(yun|yuncs)|cdn)\.com$
-(^|\.)coin(gecko|traffic)\.(com)|io)$
+(^|\.)coin(gecko|traffic)\.(com|io)$
 (^|\.)fastfreeredics[0-9]\.life$
 (^|\.)go88\.(com|site)$
 (^|\.)slatic\.(net|ne)$
