@@ -5,9 +5,11 @@ This is a compilation of filters made by me, the list will get longer as time go
 You can import my blocklist by pasting this link: https://raw.githubusercontent.com/s0m3guy2004/pihole-filters/master/blocklist.txt
 ## Regex
 ```
-(^|\.)ali(yun|cdn)\.com$
+(^|\.)ali((yun)|(yuncs)|(cdn))\.com$
 (^|\.)coin((gecko)|(traffic))\.((com)|(io))$
 (^|\.)fastfreeredics[0-9]\.life$
+(^|\.)go88\.((com)|(site))$
+(^|\.)slatic\.((net)|(ne))$
 ^([A-Za-z.-]*\.)?trafficjunky[-.]
 ^([A-Za-z.-]*\.)?moatads\.com$
 ^api([4-6]*\.)([A-Za-z0-9.-]*)
@@ -29,11 +31,16 @@ yoads[-_.]
 (^|\.)digicert.com$
 (^|\.)exdynsrv\.com$
 (^|\.)fabetvn\.com$
+(^|\.)jbovn\.com$
+(^|\.)kucoin\.com$
 (^|\.)livejasmin\.com$
 (^|\.)mgid\.com$
+(^|\.)nosdn\.127\.net$
 (^|\.)octabx\.club$
+(^|\.)qiyukf\.com$
 (^|\.)steepto\.com$
 (^|\.)treasuredata\.com$
 (^|\.)zdassets.com$
+(^|\.)zendesk.com$
 (^|\.)yu8\.us$
 ```
