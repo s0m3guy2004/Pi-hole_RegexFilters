@@ -37,6 +37,7 @@ yoads[-_.]
 (^|\.)livejasmin\.com$
 (^|\.)mgid\.com$
 (^|\.)nosdn\.127\.net$
+(^|\.)olymptrade\.com$
 (^|\.)octabx\.club$
 (^|\.)qiyukf\.com$
 (^|\.)steepto\.com$
