@@ -41,6 +41,7 @@ yoads[-_.]
 (^|\.)nosdn\.127\.net$
 (^|\.)olymptrade\.com$
 (^|\.)octabx\.club$
+(^|\.)pvclouds.com
 (^|\.)qiyukf\.com$
 (^|\.)steepto\.com$
 (^|\.)treasuredata\.com$
