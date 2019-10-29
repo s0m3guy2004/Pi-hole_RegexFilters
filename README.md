@@ -37,7 +37,6 @@ yoads[-_.]
 (^|\.)jbovn\.com$
 (^|\.)kucoin\.com$
 (^|\.)livejasmin\.com$
-(^|\.)metric\.gstatic\.com$
 (^|\.)mgid\.com$
 (^|\.)nosdn\.127\.net$
 (^|\.)olymptrade\.com$
@@ -47,6 +46,5 @@ yoads[-_.]
 (^|\.)treasuredata\.com$
 (^|\.)interactive\.com$
 (^|\.)zdassets.com$
-(^|\.)zendesk.com$
 (^|\.)yu8\.us$
 ```
