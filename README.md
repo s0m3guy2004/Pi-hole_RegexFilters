@@ -31,10 +31,13 @@ yoads[-_.]
 (^|\.)digicert.com$
 (^|\.)exdynsrv\.com$
 (^|\.)fabetvn\.com$
-(^|\.).hoood\.info$
+(^|\.)getmeuncos\.com$
+(^|\.)g00\.cnet\.com$
+(^|\.)hoood\.info$
 (^|\.)jbovn\.com$
 (^|\.)kucoin\.com$
 (^|\.)livejasmin\.com$
+(^|\.)metric\.gstatic\.com$
 (^|\.)mgid\.com$
 (^|\.)nosdn\.127\.net$
 (^|\.)olymptrade\.com$
