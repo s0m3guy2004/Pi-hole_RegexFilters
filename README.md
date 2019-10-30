@@ -12,6 +12,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 (^|\.)fastfreeredics[0-9]\.life$
 (^|\.)go88\.(com|site)$
 (^|\.)monad(plug|-rtb)\.com
+(^|\.)(ssl|wpc)\.rncdn[0-9?].com
 (^|\.)slatic\.(net|ne)$
 ^([A-Za-z.-]*\.)?trafficjunky[-.]
 ^([A-Za-z.-]*\.)?moatads\.com$
