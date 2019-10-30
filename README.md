@@ -29,7 +29,6 @@ yoads[-_.]
 (^|\.)bebi.com$
 (^|\.)bemobtrk\.com$
 (^|\.)cpmstar\.com$
-(^|\.)digicert.com$
 (^|\.)exdynsrv\.com$
 (^|\.)fabetvn\.com$
 (^|\.)getmeuncos\.com$
