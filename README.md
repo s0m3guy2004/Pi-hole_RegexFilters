@@ -15,7 +15,6 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 (^|\.)(ssl|wpc)\.rncdn[0-9?].com
 (^|\.)slatic\.(net|ne)$
 ^([A-Za-z.-]*\.)?trafficjunky[-.]
-^([A-Za-z.-]*\.)?moatads\.com$
 ^(galleryn|pt-static)[0-9?].(awe(mwh|stc)|jsmstat)\.com$
 platform?[0-9]*[-_.]
 yoads[-_.]
@@ -37,6 +36,7 @@ yoads[-_.]
 (^|\.)jbovn\.com$
 (^|\.)kucoin\.com$
 (^|\.)livejasmin\.com$
+(^|\.)moatads\.com$
 (^|\.)mgid\.com$
 (^|\.)nosdn\.127\.net$
 (^|\.)olymptrade\.com$
