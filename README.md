@@ -47,6 +47,7 @@ yoads[-_.]
 (^|\.)steepto\.com$
 (^|\.)treasuredata\.com$
 (^|\.)interactive\.com$
+(^|\.)wp\.com$
 (^|\.)yu8\.us$
 (^|\.)zdassets.com$
 (^|\.)zdbb\.net$
