@@ -18,7 +18,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 ^(galleryn|pt-static)[0-9?].(awe(mwh|stc)|jsmstat)\.com$
 ^adser(ving|ver|vice)?
 ^platform?[0-9]*[-_.]
-^yoads[-_.]
+^yoads?[-_.]
 ```
 ## Wildcards
 ```
