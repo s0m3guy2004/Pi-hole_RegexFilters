@@ -11,9 +11,12 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 (^|\.)coin(gecko|traffic)\.(com|io)$
 (^|\.)fastfreeredics[0-9]\.life$
 (^|\.)go88\.(com|site)$
+(^|\.)jwp(ltx|srv)\.com$
 (^|\.)monad(plug|-rtb)\.com
 (^|\.)(ssl|wpc)\.rncdn[0-9?].com
+(^|\.)r2games\.com$
 (^|\.)slatic\.(net|ne)$
+(^|\.)qiniudns\.com$
 ^([A-Za-z.-]*\.)?trafficjunky[-.]
 ^(galleryn|pt-static)[0-9?].(awe(mwh|stc)|jsmstat)\.com$
 ^adser(ving|ver|vice)?
@@ -27,6 +30,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 (^|\.)adskeeper\.co\.uk$
 (^|\.)addthis\.com$
 (^|\.)aaxads\.com$
+(^|\.)aicdn\.com$
 (^|\.)bebi.com$
 (^|\.)bemobtrk\.com$
 (^|\.)cpmstar\.com$
