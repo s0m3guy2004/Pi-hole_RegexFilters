@@ -50,6 +50,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 (^|\.)pvclouds.com
 (^|\.)qiyukf\.com$
 (^|\.)steepto\.com$
+(^|\.)spot\.im$
 (^|\.)treasuredata\.com$
 (^|\.)interactive\.com$
 (^|\.)wp\.com$
