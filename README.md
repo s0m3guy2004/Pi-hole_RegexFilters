@@ -25,6 +25,8 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 ^yoads?
 ```
 ## Wildcards
+
+I may have to reduce these and put them in the normal blocklist
 ```
 (^|\.)amazon-adsystem\.com$
 (^|\.)adskeeper\.co\.uk$
