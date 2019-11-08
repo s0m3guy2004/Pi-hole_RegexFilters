@@ -10,7 +10,9 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 (^|\.)agoda\.(net|com)$
 (^|\.)coin(gecko|traffic)\.(com|io)$
 (^|\.)fastfreeredics[0-9]\.life$
+(^|\.)fast(ly|lylb)\.net$
 (^|\.)go88\.(com|site)$
+(^|\.)hear(st|stapps)\.com$
 (^|\.)jwp(ltx|srv)\.com$
 (^|\.)monad(plug|-rtb)\.com
 (^|\.)(ssl|wpc)\.rncdn[0-9?].com
