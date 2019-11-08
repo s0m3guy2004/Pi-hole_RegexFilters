@@ -13,6 +13,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 (^|\.)fast(ly|lylb)\.net$
 (^|\.)go88\.(com|site)$
 (^|\.)hear(st|stapps)\.com$
+(^|\.)imglnk[a-z].com
 (^|\.)jwp(ltx|srv)\.com$
 (^|\.)monad(plug|-rtb)\.com
 (^|\.)(ssl|wpc)\.rncdn[0-9?].com
