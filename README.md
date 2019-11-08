@@ -42,6 +42,7 @@ I may have to reduce these and put them in the normal blocklist
 (^|\.)exdynsrv\.com$
 (^|\.)fabetvn\.com$
 (^|\.)getmeuncos\.com$
+(^|\.)ga\.gfycat\.com$
 (^|\.)g00\.cnet\.com$
 (^|\.)hoood\.info$
 (^|\.)jbovn\.com$
