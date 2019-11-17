@@ -4,6 +4,8 @@
 1.bmon.site
 3xn.fastnetworkconnection.com
 adfdsaf.ow.truesteamachievements.com
+api4.2ahvqkxsuzrrlvqigar8.com
+api6.2ahvqkxsuzrrlvqigar8.com
 api4.va24a1g4ha24a3.org
 api6.va24a1g4ha24a3.org
 allmyverygreatlife.com
@@ -49,6 +51,7 @@ chouftak.net
 crptgate.com
 chersoat.com
 caljqsml.com
+cammyd.com
 c.tadst.com
 c.liadm.co
 devicemetadataservice.trafficmanager.net
@@ -101,11 +104,11 @@ lajgmzddxrzjl.com
 lorempixel.com
 lseddehpo.com
 ld789.online
+lg.nanda.vn
 mediagamemainframes.com
 mealplanningideas.com
 marketgameframes.com
 minent-vegoryone.com
-muahangnhanh-24h.com
 mofzedjmlhds.com
 mygoodlives.com
 mediaboxhd.net
@@ -171,7 +174,7 @@ stremanp.com
 stazumik.net
 sdfsdvc.com
 sonumal.com
-sun.games
+sun.game
 s.pacn.ws
 s.w.org
 tracedseals.starfieldtech.com
@@ -208,6 +211,7 @@ wasshoneaningar.pro
 wziaqxvxmpfshx.com
 wcwcypfnvih.com
 wfcvhhmumb.com
+web.sun.game
 xml.popunder.bid
 xml.xbidflare.com
 xvp.akamaized.net
