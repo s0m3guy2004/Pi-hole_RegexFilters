@@ -36,6 +36,7 @@ I may have to reduce these and put them in the normal blocklist
 (^|\.)bebi.com$
 (^|\.)bemobtrk\.com$
 (^|\.)cpmstar\.com$
+(|\.)cbox\.ws$
 (^|\.)exdynsrv\.com$
 (^|\.)fabetvn\.com$
 (^|\.)getmeuncos\.com$
