@@ -56,6 +56,7 @@ I may have to reduce these and put them in the normal blocklist
 (^|\.)qiniudns\.com$
 (^|\.)qiyukf\.com$
 (^|\.)r2games\.com$
+(^|\.)stackpathdns\.com$
 (^|\.)steepto\.com$
 (^|\.)spot\.im$
 (^|\.)treasuredata\.com$
