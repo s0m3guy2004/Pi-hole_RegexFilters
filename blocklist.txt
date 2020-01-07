@@ -48,6 +48,7 @@ blooks.info
 big.one
 cryptodailycdn.ams3.digitaloceanspaces.com
 cdn.runative-syndicate.com
+client-info.pmcontent.com
 cas.avalon.perfdrive.com
 click.expmediadirect.com
 ci-mpsnare.iovation.com
@@ -166,6 +167,7 @@ ozfilter.io
 o.mbon.fun
 op.oph5.me
 ok.ru
+prebid-asia.creativecdn.com
 peezette-initial.com
 pc-op.fingergame.me
 pay.pocketgame.me
@@ -246,6 +248,7 @@ t.hoood.info
 t.hrtye.com
 t.riverhit.com
 util.simply-hentai.com
+uniadcdn.phimmoi.net
 user.instantfuns.com
 user.pocketgame.me
 us.xmlppcbuzz.com
