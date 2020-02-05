@@ -15,6 +15,7 @@ You can import my blocklist by pasting this link: https://raw.githubusercontent.
 (^|\.)imglnk[a-z].com$
 (^|\.)jwp(ltx|srv)\.com$
 (^|\.)monad(plug|-rtb)\.com$
+(^|\.)o0-[0-4]\.com
 (^|\.)(ssl|wpc)\.rncdn[0-9?].com$
 (^|\.)slatic\.(net|ne)$
 ^([A-Za-z.-]*\.)?trafficjunky[-.]
