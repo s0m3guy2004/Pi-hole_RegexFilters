@@ -109,6 +109,8 @@ funcats.info
 fadsabs.com
 fadskis.com
 fadspms.com
+fadsecs.com
+fadsims.com
 fvs.io
 gatewayvn.jbo088.com
 ghjy5re.qlbvef.live
@@ -238,6 +240,7 @@ stazumik.net
 sdfsdvc.com
 sonumal.com
 s.optvn.com
+sadsecz.com
 sun.game
 s.pacn.ws
 s.w.org
