@@ -190,12 +190,14 @@ nyaa.tracker.wf
 nbf9b5aurl.com
 news-easy.com
 namel.net
+ocsp.godaddy.com.akadns.net
 opgamesource.zroadgame.com
 opus.analytics.yahoo.com
 organizer.bizzabo.com
 offers.tothegg.com
 oneid.mmstat.com
 ozoneliqqmal.com
+ocsp.godaddy.com
 ozfilter.io
 o.mbon.fun
 op.oph5.me
