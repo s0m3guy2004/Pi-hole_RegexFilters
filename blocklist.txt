@@ -54,6 +54,7 @@ balvalur.com
 blooks.info
 big.one
 cryptodailycdn.ams3.digitaloceanspaces.com
+cdn-adn-https.rayjump.com.qtlgslb.com
 cdn.runative-syndicate.com
 client-info.pmcontent.com
 cas.avalon.perfdrive.com
