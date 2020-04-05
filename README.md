@@ -65,6 +65,5 @@ I may have to reduce these and put them in the normal blocklist
 (^|\.)interactive\.com$
 (^|\.)wp\.com$
 (^|\.)yu8\.us$
-(^|\.)zdassets.com$
 (^|\.)zdbb\.net$
 ```
